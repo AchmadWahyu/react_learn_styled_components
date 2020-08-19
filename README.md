@@ -1,4 +1,4 @@
-# react_learn_styled_components
+# react_styled
 Created with CodeSandbox
 
 My Simple React app learning with styleed-components party library
@@ -6,12 +6,12 @@ My Simple React app learning with styleed-components party library
 ## Installing
 1. Clone the repository
 ```
-git clone https:https://github.com/AchmadWahyu/react_learn_styled_components
+git clone https:https://github.com/AchmadWahyu/react_styled
 ```
 
 ## 2. Install dependencies, this can take a minute
 ```
-cd react_learn_styled_components
+cd react_styled
 npm install
 ```
 
